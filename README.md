@@ -1,3 +1,3 @@
 # demo-web-socket
-wuz protected1
+wuz protected2
 pr
